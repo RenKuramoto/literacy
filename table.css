@@ -1,6 +1,6 @@
 .table1 th, .table1 td {
     border-collapse: collapse;
-    border-style: dotted;
+    border-style: dashed;
     border-color:red;
   }
 .table1 th {background-color: orange;}
