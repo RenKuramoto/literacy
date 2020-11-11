@@ -1,4 +1,4 @@
-.table1 th {
+.table1 th, .table1 dt {
     border-style: dotted;
     border-width: 5px;
     border-color:red;
