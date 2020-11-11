@@ -1,9 +1,9 @@
 .table1 {
     border-collapse: collapse;
-    border: 70px dotted red;
+    border: 15px dashed red;
 }
   .table1 th, .table1 td {
-    border-style: dotted;
-    border-width: 70px;
+    border-style: dashed;
+    border-width: 15px;
     border-color:red;
   }
