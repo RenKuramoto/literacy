@@ -1,4 +1,7 @@
-.table1 {border: dotted red;}
+.table1 {
+  border-collapse: collapse;
+  border: dotted;
+}
 .table1 th, .table1 td {
     border-style: dotted;
     border-color:red;
