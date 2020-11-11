@@ -1,9 +1,9 @@
 .table1 {
-    border: 1px dashed red;
+    border: 5px dotted red;
 }
   .table1 th, .table1 td {
-    border-style: dashed;
-    border-width: 1px;
+    border-style: dotted;
+    border-width: 5px;
     border-color:red;
   }
   .table1 th {background-color: orange;}
